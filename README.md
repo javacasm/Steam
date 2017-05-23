@@ -13,3 +13,7 @@
 [Cohetes de agua](https://www.youtube.com/playlist?list=PLDxBiw1MlK6RHdje9xzLtL2Z1FuGMb_IB)
 
 [Física con spinners](github.com/javacasm/spinners)
+
+[Toda la química](https://www.redbubble.com/es/people/dominicwalliman/works/26426671-the-map-of-chemistry)
+
+![17 ecuaciones que cambiaron el mundo](http://static1.businessinsider.com/image/53289f55eab8ea3d524b5f3a-800-/stewart%2017%20equations%20gauss%27%20law%20corrected.png)
