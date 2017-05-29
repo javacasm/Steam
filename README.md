@@ -6,6 +6,8 @@
 
 [Tienda de juguetes STEAM](https://juguetes.science4you.es/)
 
+[juguetes Steam](http://computerhoy.com/noticias/life/juguetes-stem-que-son-que-gustan-ninos-45594)
+
 [Construye tu microscopio](https://www.youtube.com/playlist?list=PLDxBiw1MlK6TridT9-AKPZ33s2APj2ynr)
 
 [Potencias de 10](https://www.youtube.com/playlist?list=PLDxBiw1MlK6Tcm7ukHHYAbr37EUxFJ5j)
@@ -25,3 +27,10 @@
 [Podcast sobre Steam](http://podcast.stemiverse.com/)
 
 ![17 ecuaciones que cambiaron el mundo](http://static1.businessinsider.com/image/53289f55eab8ea3d524b5f3a-800-/stewart%2017%20equations%20gauss%27%20law%20corrected.png)
+
+## Experimentos
+* Espectrómetro con webcam
+* spinners
+* cohetes de agua
+* centrifugadora
+* pipetas
