@@ -2,6 +2,8 @@
 
 ## Referencias
 
+[Excelente "Hace 65 millones de años los dinosaurios tuvieron un mal día..." Charla TED sobre defensa ante los asteroides](https://www.ted.com/talks/phil_plait_how_to_defend_earth_from_asteroids)
+
 [Opening minds to stem careers](http://www.europeanschoolnetacademy.eu/web/opening-minds-to-stem-careers)
 
 [Tienda de juguetes STEAM](https://juguetes.science4you.es/)
