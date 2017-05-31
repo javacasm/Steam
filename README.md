@@ -30,6 +30,9 @@
 
 ![17 ecuaciones que cambiaron el mundo](http://static1.businessinsider.com/image/53289f55eab8ea3d524b5f3a-800-/stewart%2017%20equations%20gauss%27%20law%20corrected.png)
 
+Diseño 3D y STEAM
+![diseño 3D](https://pbs.twimg.com/media/DBHlXOUW0AQjWGB.jpg)
+
 ## Experimentos
 * Espectrómetro con webcam
 * spinners
