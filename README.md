@@ -33,7 +33,13 @@
 Diseño 3D y STEAM
 ![diseño 3D](https://pbs.twimg.com/media/DBHlXOUW0AQjWGB.jpg)
 
-## Experimentos
+[Modelos de motores imprimibles en 3D](http://www.microsiervos.com/archivo/ingenieria/modelos-cajas-cambio-motores-impresos-3d-funcionales-no-producen-potencia.html)
+
+
+[Densidad](https://twitter.com/HdAnchiano/status/871289262376972288)
+
+
+ ## Experimentos
 * Espectrómetro con webcam
 * spinners
 * cohetes de agua
