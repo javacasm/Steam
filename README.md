@@ -1,6 +1,19 @@
 # Steam
 
+## Ideas
+
+Camisetas con motivos STEAM: NASA, espacio, The Big Bang Theory
+
+### Química
+
+Jabones vs grasas
+
 ## Referencias
+
+[Comparación de tamaños de cuerpos espaciales](https://twitter.com/ClouderFran/status/874557061492858880)
+
+[Comparación de cohetes espaciales](https://twitter.com/WorldAndScience/status/874506694717579264)
+![Comparación de cohetes espaciales](https://pbs.twimg.com/media/DCLfM_6XUAERD2H.jpg)
 
 [Excelente "Hace 65 millones de años los dinosaurios tuvieron un mal día..." Charla TED sobre defensa ante los asteroides](https://www.ted.com/talks/phil_plait_how_to_defend_earth_from_asteroids)
 
