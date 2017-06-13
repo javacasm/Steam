@@ -7,6 +7,7 @@ Camisetas con motivos STEAM: NASA, espacio, The Big Bang Theory
 ### Química
 
 Jabones vs grasas
+pH, cambios de color ¿piscinas y pH?
 
 ## Referencias
 
