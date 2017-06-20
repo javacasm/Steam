@@ -54,6 +54,8 @@ Diseño 3D y STEAM
 [Densidad](https://twitter.com/HdAnchiano/status/871289262376972288)
 
 
+[Centro de masas de un equilibrista](https://twitter.com/HdAnchiano/status/876900237402677248)
+
 ## Experimentos
 * Espectrómetro con webcam
 * spinners
