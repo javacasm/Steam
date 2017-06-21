@@ -68,6 +68,10 @@ Escher
 
 ### Futurama
 
+[Ciencia en futurama](http://www.taringa.net/comunidades/ciencia-con-paciencia/142540/Info-La-Ciencia-en-Futurama.html)
+
+[Vídeo: la ciencia en Futurama](https://www.youtube.com/watch?v=8pTtKo6ODcU)
+
 [Capitulo 2](sobre la luna)
 
 
