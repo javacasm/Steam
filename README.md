@@ -66,6 +66,8 @@ Diseño 3D y STEAM
 
 Escher
 
+[3ª ley de Newton](https://twitter.com/TapasDeCiencia/status/877417879356018688)
+
 ### Futurama
 
 [Ciencia en futurama](http://www.taringa.net/comunidades/ciencia-con-paciencia/142540/Info-La-Ciencia-en-Futurama.html)
