@@ -56,6 +56,12 @@ Diseño 3D y STEAM
 
 [Centro de masas de un equilibrista](https://twitter.com/HdAnchiano/status/876900237402677248)
 
+[Hola Veranito](http://www.microsiervos.com/archivo/ciencia/por-que-la-tierra-esta-mas-lejos-del-sol-que-en-todo-el-ano-y-sin-embargo-morimos-de-calor.html)
+
+[El solsticio de verano desde Noruega](https://twitter.com/marsrader/status/877336388617723905)
+
+![solsticio](https://pbs.twimg.com/media/DCzsy2NXkAADZjU.jpg)
+
 ## Experimentos
 * Espectrómetro con webcam
 * spinners
