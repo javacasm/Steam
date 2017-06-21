@@ -64,6 +64,13 @@ Diseño 3D y STEAM
 
 [The Genius of Marie Curie](https://www.youtube.com/watch?v=w6JFRi0Qm_s&feature=em-subs_digest-wl)
 
+Escher
+
+### Futurama
+
+[Capitulo 2](sobre la luna)
+
+
 ## Experimentos
 * Espectrómetro con webcam
 * spinners
