@@ -62,6 +62,8 @@ Diseño 3D y STEAM
 
 ![solsticio](https://pbs.twimg.com/media/DCzsy2NXkAADZjU.jpg)
 
+[The Genius of Marie Curie](https://www.youtube.com/watch?v=w6JFRi0Qm_s&feature=em-subs_digest-wl)
+
 ## Experimentos
 * Espectrómetro con webcam
 * spinners
