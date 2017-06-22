@@ -68,6 +68,8 @@ Escher
 
 [3ª ley de Newton](https://twitter.com/TapasDeCiencia/status/877417879356018688)
 
+[Calculando el area de una circunferencia](https://lh3.googleusercontent.com/-21cY8FDudUI/WUrYThAVAeI/AAAAAAAABog/y-kdY_A7qBQlWPP3ToGBu5XQLV1l6is-ACJoC/w530-h462-rw/circle.gif)
+
 ### Futurama
 
 [Ciencia en futurama](http://www.taringa.net/comunidades/ciencia-con-paciencia/142540/Info-La-Ciencia-en-Futurama.html)
