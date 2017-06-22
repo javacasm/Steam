@@ -70,6 +70,8 @@ Escher
 
 [Calculando el area de una circunferencia](https://lh3.googleusercontent.com/-21cY8FDudUI/WUrYThAVAeI/AAAAAAAABog/y-kdY_A7qBQlWPP3ToGBu5XQLV1l6is-ACJoC/w530-h462-rw/circle.gif)
 
+[Robot que se mueve por la electricidad generada por una patata](http://www.microsiervos.com/archivo/robots/patata-coche-autonoma.html)
+
 ### Futurama
 
 [Ciencia en futurama](http://www.taringa.net/comunidades/ciencia-con-paciencia/142540/Info-La-Ciencia-en-Futurama.html)
