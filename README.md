@@ -16,7 +16,6 @@ pH, cambios de color ¿piscinas y pH?
 [Comparación de cohetes espaciales](https://twitter.com/WorldAndScience/status/874506694717579264)
 ![Comparación de cohetes espaciales](https://pbs.twimg.com/media/DCLfM_6XUAERD2H.jpg)
 
-[Excelente "Hace 65 millones de años los dinosaurios tuvieron un mal día..." Charla TED sobre defensa ante los asteroides](https://www.ted.com/talks/phil_plait_how_to_defend_earth_from_asteroids)
 
 [Opening minds to stem careers](http://www.europeanschoolnetacademy.eu/web/opening-minds-to-stem-careers)
 
@@ -42,7 +41,6 @@ pH, cambios de color ¿piscinas y pH?
 
 [Podcast sobre Steam](http://podcast.stemiverse.com/)
 
-![17 ecuaciones que cambiaron el mundo](http://static1.businessinsider.com/image/53289f55eab8ea3d524b5f3a-800-/stewart%2017%20equations%20gauss%27%20law%20corrected.png)
 
 Diseño 3D y STEAM
 ![diseño 3D](https://pbs.twimg.com/media/DBHlXOUW0AQjWGB.jpg)
@@ -50,6 +48,36 @@ Diseño 3D y STEAM
 [Modelos de motores imprimibles en 3D](http://www.microsiervos.com/archivo/ingenieria/modelos-cajas-cambio-motores-impresos-3d-funcionales-no-producen-potencia.html)
 
 [Campus Cientificos](https://www.campuscientificos.es/proyectos)
+
+### Evolución/historia
+
+[Excelente "Hace 65 millones de años los dinosaurios tuvieron un mal día..." Charla TED sobre defensa ante los asteroides](https://www.ted.com/talks/phil_plait_how_to_defend_earth_from_asteroids)
+
+
+### Cientific@s/historia
+
+[The Genius of Marie Curie](https://www.youtube.com/watch?v=w6JFRi0Qm_s&feature=em-subs_digest-wl)
+
+Escher
+
+
+
+### Tecnología
+
+[Robot que se mueve por la electricidad generada por una patata](http://www.microsiervos.com/archivo/robots/patata-coche-autonoma.html)
+
+
+### Matemáticas
+
+[Calculando el area de una circunferencia](https://lh3.googleusercontent.com/-21cY8FDudUI/WUrYThAVAeI/AAAAAAAABog/y-kdY_A7qBQlWPP3ToGBu5XQLV1l6is-ACJoC/w530-h462-rw/circle.gif)
+
+
+[Dados no transitivos](http://elpais.com/elpais/2017/06/21/el_aleph/1498064711_481863.html)
+
+### Física
+
+[3ª ley de Newton](https://twitter.com/TapasDeCiencia/status/877417879356018688)
+
 
 [Densidad](https://twitter.com/HdAnchiano/status/871289262376972288)
 
@@ -62,15 +90,10 @@ Diseño 3D y STEAM
 
 ![solsticio](https://pbs.twimg.com/media/DCzsy2NXkAADZjU.jpg)
 
-[The Genius of Marie Curie](https://www.youtube.com/watch?v=w6JFRi0Qm_s&feature=em-subs_digest-wl)
+![17 ecuaciones que cambiaron el mundo](http://static1.businessinsider.com/image/53289f55eab8ea3d524b5f3a-800-/stewart%2017%20equations%20gauss%27%20law%20corrected.png)
 
-Escher
 
-[3ª ley de Newton](https://twitter.com/TapasDeCiencia/status/877417879356018688)
-
-[Calculando el area de una circunferencia](https://lh3.googleusercontent.com/-21cY8FDudUI/WUrYThAVAeI/AAAAAAAABog/y-kdY_A7qBQlWPP3ToGBu5XQLV1l6is-ACJoC/w530-h462-rw/circle.gif)
-
-[Robot que se mueve por la electricidad generada por una patata](http://www.microsiervos.com/archivo/robots/patata-coche-autonoma.html)
+### Química
 
 ### Futurama
 
