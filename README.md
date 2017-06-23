@@ -37,6 +37,7 @@ pH, cambios de color ¿piscinas y pH?
 
 [Podcast sobre Steam](http://podcast.stemiverse.com/)
 
+[Enseñando STEAM con Spinners](http://hackaday.com/2017/06/23/teaching-steam-with-fidget-spinners/)
 
 Diseño 3D y STEAM
 ![diseño 3D](https://pbs.twimg.com/media/DBHlXOUW0AQjWGB.jpg)
@@ -70,6 +71,8 @@ Escher
 
 [Dados no transitivos](http://elpais.com/elpais/2017/06/21/el_aleph/1498064711_481863.html)
 
+[Prueba visual: 1/4 + 1/4² + 1/4³ + 1/4⁴ + ⋯ = 1/3 ](https://twitter.com/ApuntesCiencia/status/878198124967317504)
+
 ### Física
 
 [3ª ley de Newton](https://twitter.com/TapasDeCiencia/status/877417879356018688)
@@ -89,6 +92,8 @@ Escher
 ![17 ecuaciones que cambiaron el mundo](http://static1.businessinsider.com/image/53289f55eab8ea3d524b5f3a-800-/stewart%2017%20equations%20gauss%27%20law%20corrected.png)
 
 [Elasticidad](https://twitter.com/HdAnchiano/status/877931413852479488)
+
+[49 fórmulas físicas](https://twitter.com/MientrasEnFisic/status/872400310228193281)
 
 ### Espacio
 
