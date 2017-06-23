@@ -11,10 +11,6 @@ pH, cambios de color ¿piscinas y pH?
 
 ## Referencias
 
-[Comparación de tamaños de cuerpos espaciales](https://twitter.com/ClouderFran/status/874557061492858880)
-
-[Comparación de cohetes espaciales](https://twitter.com/WorldAndScience/status/874506694717579264)
-![Comparación de cohetes espaciales](https://pbs.twimg.com/media/DCLfM_6XUAERD2H.jpg)
 
 
 [Opening minds to stem careers](http://www.europeanschoolnetacademy.eu/web/opening-minds-to-stem-careers)
@@ -92,6 +88,24 @@ Escher
 
 ![17 ecuaciones que cambiaron el mundo](http://static1.businessinsider.com/image/53289f55eab8ea3d524b5f3a-800-/stewart%2017%20equations%20gauss%27%20law%20corrected.png)
 
+[Elasticidad](https://twitter.com/HdAnchiano/status/877931413852479488)
+
+### Espacio
+
+[Comparación de tamaños de cuerpos espaciales](https://twitter.com/ClouderFran/status/874557061492858880)
+
+[Comparación de cohetes espaciales](https://twitter.com/WorldAndScience/status/874506694717579264)
+![Comparación de cohetes espaciales](https://pbs.twimg.com/media/DCLfM_6XUAERD2H.jpg)
+
+Jupiter desde la JunoCam
+
+![Jupiter](https://pbs.twimg.com/media/DC9LstCXoAEHERm.jpg)
+
+La luna y saturno
+
+![Luna y saturno](https://pbs.twimg.com/media/DC-_LD-XoAAsFtd.jpg)
+
+[Video: la Vía Lactea desde un avión](https://www.youtube.com/watch?v=5EarOB411BA)
 
 ### Química
 
