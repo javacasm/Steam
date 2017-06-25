@@ -11,7 +11,7 @@ pH, cambios de color ¿piscinas y pH?
 
 ## Referencias
 
-
+[Formación de Tormenta]( http://www.syfy.com/syfywire/incredible-time-lapse-video-a-supercell-forms)
 
 [Opening minds to stem careers](http://www.europeanschoolnetacademy.eu/web/opening-minds-to-stem-careers)
 
@@ -72,6 +72,10 @@ Escher
 [Dados no transitivos](http://elpais.com/elpais/2017/06/21/el_aleph/1498064711_481863.html)
 
 [Prueba visual: 1/4 + 1/4² + 1/4³ + 1/4⁴ + ⋯ = 1/3 ](https://twitter.com/ApuntesCiencia/status/878198124967317504)
+
+
+[Cálculo del área de una circunferencia]( https://twitter.com/scienmag/status/878696789846749184 )
+
 
 ### Física
 
