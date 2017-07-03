@@ -76,6 +76,13 @@ Escher
 
 [Cálculo del área de una circunferencia]( https://twitter.com/scienmag/status/878696789846749184 )
 
+[Área de círculo](https://twitter.com/WorldAndScience/status/881513065262571520)
+
+[El arte de Escher](https://t.co/CEiv6Qabnv)
+
+Volumen de una pizza de radio z y altura a
+
+![volumen pizza](https://pbs.twimg.com/media/DDvDdbtWAAA7jef.jpg)
 
 ### Física
 
@@ -93,12 +100,17 @@ Escher
 
 ![solsticio](https://pbs.twimg.com/media/DCzsy2NXkAADZjU.jpg)
 
+[24 horas de luz en el verano en el Ártico](https://twitter.com/marsrader/status/881664185754685440)
+
 ![17 ecuaciones que cambiaron el mundo](http://static1.businessinsider.com/image/53289f55eab8ea3d524b5f3a-800-/stewart%2017%20equations%20gauss%27%20law%20corrected.png)
 
 [Elasticidad](https://twitter.com/HdAnchiano/status/877931413852479488)
 
 [49 fórmulas físicas](https://twitter.com/MientrasEnFisic/status/872400310228193281)
 
+[La fuerza centrífuga rompe la rueda de un skate](https://twitter.com/WorldAndScience/status/881361895923625984)
+
+[Fuerza coriolis](https://twitter.com/ApuntesCiencia/status/881550227530022912)
 ### Espacio
 
 [Comparación de tamaños de cuerpos espaciales](https://twitter.com/ClouderFran/status/874557061492858880)
@@ -115,6 +127,8 @@ La luna y saturno
 ![Luna y saturno](https://pbs.twimg.com/media/DC-_LD-XoAAsFtd.jpg)
 
 [Video: la Vía Lactea desde un avión](https://www.youtube.com/watch?v=5EarOB411BA)
+
+[Choque de un asteroide](https://twitter.com/NASAJPL_Edu/status/880882244750987264)
 
 ### Química
 
