@@ -4,12 +4,10 @@
 
 Camisetas con motivos STEAM: NASA, espacio, The Big Bang Theory
 
-### Química
-
-Jabones vs grasas
-pH, cambios de color ¿piscinas y pH?
 
 ## Referencias
+
+[La importancia de la A de STEAM](https://www.steamcraftedu.com/steam-education-arts-important/)
 
 [Formación de Tormenta]( http://www.syfy.com/syfywire/incredible-time-lapse-video-a-supercell-forms)
 
@@ -131,6 +129,9 @@ La luna y saturno
 [Choque de un asteroide](https://twitter.com/NASAJPL_Edu/status/880882244750987264)
 
 ### Química
+
+Jabones vs grasas
+pH, cambios de color ¿piscinas y pH?
 
 ### Futurama
 
