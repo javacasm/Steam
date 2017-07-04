@@ -109,6 +109,9 @@ Volumen de una pizza de radio z y altura a
 [La fuerza centrífuga rompe la rueda de un skate](https://twitter.com/WorldAndScience/status/881361895923625984)
 
 [Fuerza coriolis](https://twitter.com/ApuntesCiencia/status/881550227530022912)
+
+[La magia de los giroscopios](https://twitter.com/loicaroyer/status/876889602732298240)
+
 ### Espacio
 
 [Comparación de tamaños de cuerpos espaciales](https://twitter.com/ClouderFran/status/874557061492858880)
