@@ -128,6 +128,8 @@ La luna y saturno
 
 [Choque de un asteroide](https://twitter.com/NASAJPL_Edu/status/880882244750987264)
 
+[Los planetas a escala en una botella](https://twitter.com/microsiervos/status/851728603939299328)
+
 ### Química
 
 Jabones vs grasas
