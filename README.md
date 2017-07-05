@@ -23,6 +23,8 @@ Camisetas con motivos STEAM: NASA, espacio, The Big Bang Theory
 
 [SpaceX](https://www.youtube.com/playlist?list=PLDxBiw1MlK6SEKDQ2aEu7WG0R-UHi_xQA)
 
+[SpaceX Rocket](https://www.youtube.com/watch?v=YkkmzqSpdDg)
+
 [Cohetes de agua](https://www.youtube.com/playlist?list=PLDxBiw1MlK6RHdje9xzLtL2Z1FuGMb_IB)
 
 [Física con spinners](github.com/javacasm/spinners)
@@ -44,6 +46,10 @@ Diseño 3D y STEAM
 
 [Campus Cientificos](https://www.campuscientificos.es/proyectos)
 
+[Olor a tierra mojada](https://pbs.twimg.com/media/DD7oEszVYAAGLEi.jpg)
+
+[Máquina 100% autoreplicantes](https://www.space.com/37101-self-replicating-3d-printer-moon-bases.html)
+
 ### Evolución/historia
 
 [Excelente "Hace 65 millones de años los dinosaurios tuvieron un mal día..." Charla TED sobre defensa ante los asteroides](https://www.ted.com/talks/phil_plait_how_to_defend_earth_from_asteroids)
@@ -61,6 +67,7 @@ Escher
 
 [Robot que se mueve por la electricidad generada por una patata](http://www.microsiervos.com/archivo/robots/patata-coche-autonoma.html)
 
+![Motor impreso](https://media.giphy.com/media/syPyA4sWkwiMo/giphy.gif)
 
 ### Matemáticas
 
