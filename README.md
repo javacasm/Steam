@@ -4,6 +4,7 @@
 
 Camisetas con motivos STEAM: NASA, espacio, The Big Bang Theory
 
+[Libros para enamorarse de la ciencia](https://culturacientifica.com/2017/07/02/libros-para-enamorarse/)
 
 ## Referencias
 
