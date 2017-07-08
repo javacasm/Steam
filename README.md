@@ -26,6 +26,8 @@ Camisetas con motivos STEAM: NASA, espacio, The Big Bang Theory
 
 [SpaceX Rocket](https://www.youtube.com/watch?v=YkkmzqSpdDg)
 
+![Comparción de tamaño de la 1ª etapa de un cochete Falcon 9 con una persona](https://pbs.twimg.com/media/DD_SxWwWsAA4ncy.jpg)
+
 [Cohetes de agua](https://www.youtube.com/playlist?list=PLDxBiw1MlK6RHdje9xzLtL2Z1FuGMb_IB)
 
 [Física con spinners](github.com/javacasm/spinners)
