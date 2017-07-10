@@ -143,6 +143,16 @@ La luna y saturno
 
 [Los planetas a escala en una botella](https://twitter.com/microsiervos/status/851728603939299328)
 
+[Transbordadores abandonados Buran](https://twitter.com/DutchSpace/status/884466244639961092)
+
+[La gran mancha roja de Saturno](https://nasa.tumblr.com/post/162828438059/solar-system-things-to-know-this-week)
+
+### Cohetes de agua
+
+[Modelo 1](https://www.myminifactory.com/object/water-rocket-39789)
+
+[Modelo 2](https://www.myminifactory.com/object/bottle-rocket-gantry-21660)
+
 ### Química
 
 Jabones vs grasas
@@ -156,6 +166,9 @@ pH, cambios de color ¿piscinas y pH?
 
 [Capitulo 2](sobre la luna)
 
+### arte
+
+[Robo Mondrian](https://programamos.es/robomondrian-combinando-el-arte-y-la-programacion/)
 
 ## Experimentos
 * Espectrómetro con webcam
