@@ -22,13 +22,7 @@ Camisetas con motivos STEAM: NASA, espacio, The Big Bang Theory
 
 [Potencias de 10](https://www.youtube.com/playlist?list=PLDxBiw1MlK6Tcm7ukHHYAbr37EUxFJ5j)
 
-[SpaceX](https://www.youtube.com/playlist?list=PLDxBiw1MlK6SEKDQ2aEu7WG0R-UHi_xQA)
 
-[SpaceX Rocket](https://www.youtube.com/watch?v=YkkmzqSpdDg)
-
-![Comparción de tamaño de la 1ª etapa de un cochete Falcon 9 con una persona](https://pbs.twimg.com/media/DD_SxWwWsAA4ncy.jpg)
-
-[Cohetes de agua](https://www.youtube.com/playlist?list=PLDxBiw1MlK6RHdje9xzLtL2Z1FuGMb_IB)
 
 [Física con spinners](github.com/javacasm/spinners)
 
@@ -151,11 +145,29 @@ La luna y saturno
 
 [La gran mancha roja de Saturno](https://nasa.tumblr.com/post/162828438059/solar-system-things-to-know-this-week)
 
+[La gran mancha roja](http://danielmarin.naukas.com/2017/07/13/la-gran-mancha-roja-de-jupiter-vista-por-juno/)
+
+#### SpaceX
+
+
+[SpaceX](https://www.youtube.com/playlist?list=PLDxBiw1MlK6SEKDQ2aEu7WG0R-UHi_xQA)
+
+[SpaceX Rocket](https://www.youtube.com/watch?v=YkkmzqSpdDg)
+
+![Aterrizaje de un cohete](https://lightsinthedark.files.wordpress.com/2017/01/gif-17.gif)
+
+![Comparción de tamaño de la 1ª etapa de un cochete Falcon 9 con una persona](https://pbs.twimg.com/media/DD_SxWwWsAA4ncy.jpg)
+
+
 ### Cohetes de agua
+
+[Cohetes de agua](https://www.youtube.com/playlist?list=PLDxBiw1MlK6RHdje9xzLtL2Z1FuGMb_IB)
 
 [Modelo 1](https://www.myminifactory.com/object/water-rocket-39789)
 
 [Modelo 2](https://www.myminifactory.com/object/bottle-rocket-gantry-21660)
+
+
 
 ### Química
 
