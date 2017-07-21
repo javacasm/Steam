@@ -8,6 +8,8 @@ Camisetas con motivos STEAM: NASA, espacio, The Big Bang Theory
 
 ## Referencias
 
+[Generando electricidad por efecto termoeléctrico](https://www.instructables.com/id/Thermoelectric-Fan-Driven-by-a-Candle/)
+
 [La importancia de la A de STEAM](https://www.steamcraftedu.com/steam-education-arts-important/)
 
 [Formación de Tormenta]( http://www.syfy.com/syfywire/incredible-time-lapse-video-a-supercell-forms)
