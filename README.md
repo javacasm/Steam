@@ -8,6 +8,8 @@ Camisetas con motivos STEAM: NASA, espacio, The Big Bang Theory
 
 ## Referencias
 
+[Colección de recursos Steam](http://www.javiertouron.es/2017/09/recursos-para-una-educacion-steam-y-un.html)
+
 [Lecciones y talleres Steam (by Microsoft)](https://www.microsoft.com/en-us/education/education-workshop/default.aspx)
 
 [Imanes y gravedad](https://makezine.com/projects/explore-lenz-law-gravity-defying-magnet-trick)
