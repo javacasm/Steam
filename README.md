@@ -8,6 +8,14 @@ Camisetas con motivos STEAM: NASA, espacio, The Big Bang Theory
 
 ## Referencias
 
+[Lecciones y talleres Steam (by Microsoft)](https://www.microsoft.com/en-us/education/education-workshop/default.aspx)
+
+[Imanes y gravedad](https://makezine.com/projects/explore-lenz-law-gravity-defying-magnet-trick)
+
+[Escuela de física con arduino](http://www.phys.uniroma1.it/fisica/archivionotizie/scuola-di-fisica-con-arduino-e-smartphone-seconda-edizione)
+
+[Simula un gas don imagenes](https://hackaday.com/2017/08/15/a-gas-model-made-of-magnets/)
+
 [Generando electricidad por efecto termoeléctrico](https://www.instructables.com/id/Thermoelectric-Fan-Driven-by-a-Candle/)
 
 [La importancia de la A de STEAM](https://www.steamcraftedu.com/steam-education-arts-important/)
